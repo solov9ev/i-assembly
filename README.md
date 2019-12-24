@@ -33,5 +33,4 @@ solov9ev: ./assembly
 (lldb) continue
 # или более сокращенный вариант
 (lldb) c
-
 ```
